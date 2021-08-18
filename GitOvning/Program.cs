@@ -13,7 +13,7 @@ namespace GitOvning
     {
         public static void Main(string[] args)
         {
-        // Här är Artems commit tobbes mer?
+        // Här är Artems commit tobbes mer? Testing merge into master
             CreateHostBuilder(args).Build().Run();
         }
 
