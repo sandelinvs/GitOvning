@@ -13,7 +13,7 @@ namespace GitOvning
     {
         public static void Main(string[] args)
         {
-        // Här är Artems commit tobbes
+        // Här är Artems commit tobbes mer?
             CreateHostBuilder(args).Build().Run();
         }
 
