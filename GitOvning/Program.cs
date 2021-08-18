@@ -13,7 +13,7 @@ namespace GitOvning
     {
         public static void Main(string[] args)
         {
-        // Här är Artems commit v2. med branch
+        // Här är Artems commit v2. med branch efter revision
             CreateHostBuilder(args).Build().Run();
         }
 
